@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GeoExample</string>
+
+    <string name="location">Location</string>
+    <string name="update">Update</string>
+    <string name="action_settings">Settings</string>
+</resources>
